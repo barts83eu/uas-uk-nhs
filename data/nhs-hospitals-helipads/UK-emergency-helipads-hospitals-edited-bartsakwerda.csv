@@ -1,148 +1,73 @@
 ﻿Name,Notes,"Lat,Lon"
-,,
-AA Kent Surrey Sussex AA Kent Surrey Sussex	,heli base,"51.347944252573825, 0.5062423821157703"
+AA Kent Surrey Sussex AA Kent Surrey Sussex,heli base,"51.347944252573825, 0.5062423821157703"
 Great North AA offcie,heli base,"54.61227305669906, -1.5818686105661488"
 Great Westerna AA offcie,heli base,"51.43998307305486, -2.6280833065811464"
 Lincs & Notts AA,heli base,"53.17264247320721, -0.511971886413"
 London’s AA office,heli base,"51.512098145107075, -0.07267477388500689"
 Scotland’s Charity AA,heli base,"56.43634527091843, -3.3741823524109447"
 Wiltshire AA offcie,heli base,"51.352549523742205, -1.992873900524711"
-Applecross Community Helipad,"Operational AE helipad
-","57.419457311859894, -5.820145234326917"
-Bournemouth Royal Hospital,"Operational AE helipad
-","50.746769532562, -1.8199190626901438"
-Campbeltown Hospital ,"park
-","55.42019666963779, -5.60458306843797"
-Dorchester: Dorset County Hospital,"Operational AE helipad
-","50.71203507310449, -2.44698310425186"
-Exeter: Royal Devon and Exeter Hospital,"Operational AE helipad
-","50.71813664130318, -3.5054131799497616"
-Gloucester Royal Hospital,"Operational AE helipad
-","51.86507322131874, -2.2318789123279568"
-Grimsby Hospital helipad,"AE Parking
-","53.54559524618429, -0.09553982481744194"
-Hereford County Hospital ,"AE Parking
-
-","52.05636705137392, -2.7044418710084996"
-Inverness: Raigmore Hospital,"Operational AE helipad
-","57.476538926161396, -4.1945433640666225"
-Ipswich Hospital,"Operational AE helipad
-","52.05564559244048, 1.200729207138887"
-Isle of Skye: Portree Helipad,"Operational AE helipad
-","57.42183564933065, -6.216781504761732"
-"Isle Of Wight: St Mary’s Hospital, Newport","Operational AE helipad
-","50.71105134806724, -1.2983679509919683"
-Maidstone Hospital,"Operational AE helipad
-","51.2753593011892, 0.48312046243669066"
-,,
-Oswestry: Robert Jones & Agnes Hunt Orthopaedic Hospital,"Operational AE helipad
-","52.88583170352627, -3.033147821275771"
-Peterborough City Hospital,"Operational AE helipad
-","52.586015866331145, -0.2798769438240752"
-Portsmouth: Queen Alexandra Hospital,"Operational AE helipad
-","50.85118144115813, -1.0690327880942467"
-Scarborough General Hospital,"Operational AE helipad
-","54.2823239878944, -0.4389165870974094"
-Shrewsbury: Royal Shrewsbury Hospital,"Operational AE helipad
-","52.70866429262666, -2.7917013305761147"
-Stornoway: Western Isles Hospital,"Operational AE helipad
-","58.221787513664545, -6.381571628743271"
-Telford: Princess Royal Hospital,"Operational AE helipad
-","52.71327094943499, -2.5145437875677774"
-Bristol Royal Infirmary,"Operational MTC helipad
-","51.458904064783646, -2.5962382023635278"
-Bristol Southmead,"Operational MTC helipad
-","51.49370023391557, -2.5925619836903993"
-Cambridge: Addenbrookes Hospital,"Operational MTC helipad
-","52.174901578303476, 0.1415656791859231"
-Coventry: University Hospital ,"Operational MTC helipad
-","52.17080673475884, 0.13964834067592982"
-Edinburgh Hospitals ,"Operational MTC helipad
-","55.924577974765256, -3.136158408044964"
-Glasgow: Queen Elizabeth University Hospital,"Operational MTC helipad
-","55.86793362519556, -4.333097484877336"
-Hull Royal Infirmary,"Operational MTC helipad
-","53.74492074002784, -0.3617735389645773"
-Leeds General Infirmary,"Operational MTC helipad
-","53.80281375692924, -1.552356029602688"
-Liverpool Aintree Hospital,"Operational MTC helipad
-","53.46535728827505, -2.9290913829096334"
-London: King's College Hospital,"Operational MTC helipad
-","51.46788093514392, -0.09194560458896434"
-London: St. George’s Hospital ,"Operational MTC helipad
-","51.42633055241551, -0.17463470761451771"
-Manchester University Hospital ,"Operational MTC helipad
-","53.46319899380128, -2.2285636629355214"
-Midlands AA (Cosford and Strensham),"Operational MTC helipad
-","52.06298052287699, -2.1566065757680906"
-Plymouth: Derriford Hospital,"Operational MTC helipad
-","50.41762850386978, -4.112898734123254"
-Preston Royal Hospital,"Operational MTC helipad
-","53.79116627541377, -2.7086196567074783"
-Sheffield Northern General Hospital,"Operational MTC helipad
-","53.40891980984624, -1.4566508667140854"
-Southampton General Hospital,"Operational MTC helipad
-","50.933515699376315, -1.4321752507072962"
-Ashford: William Harvey Hospital,"
-Operational AE helipad","51.14294340997941, 0.9160900167634772"
-Bury St Edmunds: West Suffolk Hospital,"Operational AE helipad
-","52.23188428466775, 0.7112253294059542"
-Carlisle: Cumberland Infirmary,"Operational AE helipad
-
-","54.8973021940685, -2.960508577109046"
-Colchester Hospital ,"Operational AE helipad
-","51.91094000299416, 0.899747458802238"
-Dartford: Darent Valley Hospital ,"Operational AE helipad
-","51.43665165221876, 0.25572259704877404"
-Gillingham: Medway Maritime Hospital,"
-Operational AE helipad
-","51.379958478109536, 0.5403051597880889"
-Hastings: Conquest Hospital ,"
-Operational AE helipad
-","50.88447032749632, 0.56864272992621"
-Keighley: Airedale General Hospital  parking,"Planned AE helipad / parking
-
-","53.897492243475, -1.9609857383417932"
-Kilmarnock: University Hospital Crosshouse,"
-Operational AE helipad
-","55.613170461889695, -4.544785133024351"
-Leicester Royal Infirmary ,"park
-
-","52.62601000458481, -1.1316121567527218"
-Liverpool: Royal Liverpool University Hospital ,"Planned AE helipad
-","53.4097324224989, -2.9626213450547074"
-London: St Mary's Hospital  ,AE parking,"51.517892909298865, -0.17548592690200626"
-Luton and Dunstable University Hospital (AE Parking),"Planned AE helipad
-","51.89351892945004, -0.4731469712824141"
-Margate: Queen Elizabeth The Queen Mother Hospital ,"Planned AE helipad
-","51.37580932501358, 1.3882981606562297"
-Milton Keynes University Hospital ,"Operational AE helipad
-","52.02553602558455, -0.7344470440734521"
-Prescot: Whiston Hospital ,"AE Parking
-","53.42006410976422, -2.786201964665908"
-Redhill: East Surrey Hospital ,"
-Operational AE helipad","51.22080586905808, -0.16297971807323727"
-Romford: Queen's Hospital ,"
-Operational AE helipad","51.5699084195404, 0.17843074814686785"
-Stoke: Royal Stoke University Hospital ,"Operational AE helipad
-","53.002631188825816, -2.2106292112947923"
-Torbay Hospital ,"AE Parking
-
-","50.48222660259449, -3.5552611535833476"
-Wolverhampton: New Cross Hospital ,"AE Parking
-
-","52.60039595763833, -2.096395055277126"
-Worcester Royal Hospital,"Operational AE helipad
-","52.18966056384331, -2.1772062777131027"
-Birmingham: Queen Elizabeth Hospital,"Operational AE helipad
-","52.45274819037794, -1.944704449302243"
-Brighton: Royal Sussex Hospital ,"Operational AE helipad
-","50.8197427625425, -0.11640852382927135"
-Newcastle upon Tyne: Royal Victoria Infirmary,"Operational AE helipad
-","54.98047668266017, -1.6193752516966469"
-Salford Royal NHS Foundation Trust,"Planned MTC helipad
-","53.48848942507131, -2.3227504999782544"
-Sheffield Children's Hospital (park),"park
-","53.38136296030612, -1.491765705591856"
-Stoke Mandeville Hospital,"parking
-","51.798846442739375, -0.8005849446005802"
+Applecross Community Helipad,Operational AE helipad,"57.419457311859894, -5.820145234326917"
+Bournemouth Royal Hospital,Operational AE helipad,"50.746769532562, -1.8199190626901438"
+Campbeltown Hospital,park,"55.42019666963779, -5.60458306843797"
+Dorchester: Dorset County Hospital,Operational AE helipad,"50.71203507310449, -2.44698310425186"
+Exeter: Royal Devon and Exeter Hospital,Operational AE helipad,"50.71813664130318, -3.5054131799497616"
+Gloucester Royal Hospital,Operational AE helipad,"51.86507322131874, -2.2318789123279568"
+Grimsby Hospital helipad,AE Parking,"53.54559524618429, -0.09553982481744194"
+Hereford County Hospital,AE Parking,"52.05636705137392, -2.7044418710084996"
+Inverness: Raigmore Hospital,Operational AE helipad,"57.476538926161396, -4.1945433640666225"
+Ipswich Hospital,Operational AE helipad,"52.05564559244048, 1.200729207138887"
+Isle of Skye: Portree Helipad,Operational AE helipad,"57.42183564933065, -6.216781504761732"
+"Isle Of Wight: St Mary’s Hospital, Newport",Operational AE helipad,"50.71105134806724, -1.2983679509919683"
+Maidstone Hospital,Operational AE helipad,"51.2753593011892, 0.48312046243669066"
+Oswestry: Robert Jones & Agnes Hunt Orthopaedic Hospital,Operational AE helipad,"52.88583170352627, -3.033147821275771"
+Peterborough City Hospital,Operational AE helipad,"52.586015866331145, -0.2798769438240752"
+Portsmouth: Queen Alexandra Hospital,Operational AE helipad,"50.85118144115813, -1.0690327880942467"
+Scarborough General Hospital,Operational AE helipad,"54.2823239878944, -0.4389165870974094"
+Shrewsbury: Royal Shrewsbury Hospital,Operational AE helipad,"52.70866429262666, -2.7917013305761147"
+Stornoway: Western Isles Hospital,Operational AE helipad,"58.221787513664545, -6.381571628743271"
+Telford: Princess Royal Hospital,Operational AE helipad,"52.71327094943499, -2.5145437875677774"
+Bristol Royal Infirmary,Operational MTC helipad,"51.458904064783646, -2.5962382023635278"
+Bristol Southmead,Operational MTC helipad,"51.49370023391557, -2.5925619836903993"
+Cambridge: Addenbrookes Hospital,Operational MTC helipad,"52.174901578303476, 0.1415656791859231"
+Coventry: University Hospital,Operational MTC helipad,"52.17080673475884, 0.13964834067592982"
+Edinburgh Hospitals,Operational MTC helipad,"55.924577974765256, -3.136158408044964"
+Glasgow: Queen Elizabeth University Hospital,Operational MTC helipad,"55.86793362519556, -4.333097484877336"
+Hull Royal Infirmary,Operational MTC helipad,"53.74492074002784, -0.3617735389645773"
+Leeds General Infirmary,Operational MTC helipad,"53.80281375692924, -1.552356029602688"
+Liverpool Aintree Hospital,Operational MTC helipad,"53.46535728827505, -2.9290913829096334"
+London: King's College Hospital,Operational MTC helipad,"51.46788093514392, -0.09194560458896434"
+London: St. George’s Hospital,Operational MTC helipad,"51.42633055241551, -0.17463470761451771"
+Manchester University Hospital,Operational MTC helipad,"53.46319899380128, -2.2285636629355214"
+Midlands AA (Cosford and Strensham),Operational MTC helipad,"52.06298052287699, -2.1566065757680906"
+Plymouth: Derriford Hospital,Operational MTC helipad,"50.41762850386978, -4.112898734123254"
+Preston Royal Hospital,Operational MTC helipad,"53.79116627541377, -2.7086196567074783"
+Sheffield Northern General Hospital,Operational MTC helipad,"53.40891980984624, -1.4566508667140854"
+Southampton General Hospital,Operational MTC helipad,"50.933515699376315, -1.4321752507072962"
+Ashford: William Harvey Hospital,Operational AE helipad,"51.14294340997941, 0.9160900167634772"
+Bury St Edmunds: West Suffolk Hospital,Operational AE helipad,"52.23188428466775, 0.7112253294059542"
+Carlisle: Cumberland Infirmary,Operational AE helipad,"54.8973021940685, -2.960508577109046"
+Colchester Hospital,Operational AE helipad,"51.91094000299416, 0.899747458802238"
+Dartford: Darent Valley Hospital,Operational AE helipad,"51.43665165221876, 0.25572259704877404"
+Gillingham: Medway Maritime Hospital,Operational AE helipad,"51.379958478109536, 0.5403051597880889"
+Hastings: Conquest Hospital,Operational AE helipad,"50.88447032749632, 0.56864272992621"
+Keighley: Airedale General Hospital  parking,Planned AE helipad / parking,"53.897492243475, -1.9609857383417932"
+Kilmarnock: University Hospital Crosshouse,Operational AE helipad,"55.613170461889695, -4.544785133024351"
+Leicester Royal Infirmary,park,"52.62601000458481, -1.1316121567527218"
+Liverpool: Royal Liverpool University Hospital,Planned AE helipad,"53.4097324224989, -2.9626213450547074"
+London: St Mary's Hospital,AE parking,"51.517892909298865, -0.17548592690200626"
+Luton and Dunstable University Hospital (AE Parking),Planned AE helipad,"51.89351892945004, -0.4731469712824141"
+Margate: Queen Elizabeth The Queen Mother Hospital,Planned AE helipad,"51.37580932501358, 1.3882981606562297"
+Milton Keynes University Hospital,Operational AE helipad,"52.02553602558455, -0.7344470440734521"
+Prescot: Whiston Hospital,AE Parking,"53.42006410976422, -2.786201964665908"
+Redhill: East Surrey Hospital,Operational AE helipad,"51.22080586905808, -0.16297971807323727"
+Romford: Queen's Hospital,Operational AE helipad,"51.5699084195404, 0.17843074814686785"
+Stoke: Royal Stoke University Hospital,Operational AE helipad,"53.002631188825816, -2.2106292112947923"
+Torbay Hospital,AE Parking,"50.48222660259449, -3.5552611535833476"
+Wolverhampton: New Cross Hospital,AE Parking,"52.60039595763833, -2.096395055277126"
+Worcester Royal Hospital,Operational AE helipad,"52.18966056384331, -2.1772062777131027"
+Birmingham: Queen Elizabeth Hospital,Operational AE helipad,"52.45274819037794, -1.944704449302243"
+Brighton: Royal Sussex Hospital,Operational AE helipad,"50.8197427625425, -0.11640852382927135"
+Newcastle upon Tyne: Royal Victoria Infirmary,Operational AE helipad,"54.98047668266017, -1.6193752516966469"
+Salford Royal NHS Foundation Trust,Planned MTC helipad,"53.48848942507131, -2.3227504999782544"
+Sheffield Children's Hospital (park),park,"53.38136296030612, -1.491765705591856"
+Stoke Mandeville Hospital,parking,"51.798846442739375, -0.8005849446005802"
