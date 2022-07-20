@@ -1,0 +1,29 @@
+﻿"Elevation 148 ft (5 hPa)
+SR 04:07 Z, MCT 03:23 Z",MSA,Level,IAS,TrkT,Wind,HdgM,GS,Dist,Time
+Portsmouth - Queen Alexandra Hospital,2100,3000,108,225,243/10,226,97,52,32
+"Elevation 299 ft (11 hPa)
+SS 20:06 Z, ECT 20:48 Z",,,,,,,,52,32
+
+EGTT Flight Information Service,London Information,124.600
+Thames FMC,Thames Director,132.700
+EGLF LARS,Farnborough Radar (E),123.225
+EGLC,Heathrow Radar,125.625
+EGLC,Thames Director,128.025
+ATIS,ATIS,135.680
+APP,Biggin Approach,129.405
+EGLF LARS,Farnborough Radar (W),125.250
+ATIS,ATIS,125.305
+AFIS,Fairoaks Information,123.430
+Gatwick FMC,Gatwick Director,126.825
+EGLF,Farnborough Radar,133.440
+Farnborough FMC,Farnborough Radar,125.250
+EGTT Flight Information Service,London Information,124.750
+AFIS,Goodwood Information,122.455
+Southampton FMC,Solent Radar,120.230
+EGHH LARS,Bournemouth Radar,119.480
+
+BIG (Biggin),,115.100
+EPM (Epsom),,316.0
+OCK (Ockham),,115.300
+MID (Midhurst),,114.000
+GWC (Goodwood),,114.750
