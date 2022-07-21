@@ -1,0 +1,25 @@
+"cases are best supported, where those use cases could be, where the drones could solve a problem "
+"where you think could be the demand could be based on your analysis"
+"drones could solve a problem or offer some kind of cost benefit and where you then think that this could be also allowed from a regulatory perspective"
+
+
+Governemnt and Rugulatory Considerations: 
+First civilian UAS BVOLS in te UK - 18 JUNE 2018 SENSAT ‘Pathfinder/Sparrow’  12 KM
+SPORTS BVOLS licence UK - not sure 
+SKYPORTS April2020 - joins other aviation innovators in the CAA BVOLS Sandbox,
+ Other members:  Amazon, Volocopter, Altitude Angel, NATS and sees.ai.
+First USA BVOLS in 2019  
+SKYPORTS BVOLS in IRELAND - September 2021 Light UAS Operator Certificate (LUC) = EU cert
+SWOOP AERO ‘Kite’  comms:  SKYTRAC’s DLS-100 is an Iridium Certus midband Satcom data link for UAV's enabling real-time command and control, telemetry streaming, and photo transfer from unmanned aviation systems. 
+SWOOP AERO ‘Kite’ range:  130 km, speed 150km/hr  
+UK GOVERNMENT SUPPORTING THE COSORTIUM (including SKYPORTS) to create "DRONE HIGHWAY 2022-JUL-19" announced during Frnobrough Airshow
+
+
+Airspace Considerations: 
+Impact on capacity and route efficiency, depending on the frequency and duration of segregation to support spaceplane operations
+Method of segregation of the aiports 
+Range of the crafts should increase with the growing efficiency of the industry. 
+However for 2022-2023 150 km should be optimal landing, recharging stations. 
+
+
+
