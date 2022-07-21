@@ -1,3 +1,22 @@
+Dear Bart,
+Thanks for reaching out. If you want to be considered, I suggest you submit your results by the end of this week.
+Regarding your other questions:
+The drones are controlled via 4G and Iridium Satcom.
+For your analysis you don’t have to take into account our current footprint, only where you think could be the demand could be based on your analysis and where you think it would be feasible today. Make sure to focus on assessing where it is possible today. We’re not seeing drones operate over urban areas today for a reason.
+Regarding the NHS locations, I’m expecting you to show that you can do the research and figure out what the best use cases are for drones today. There is a lot of literature out there on where drones can bring the most value in the NHS supply chain.
+So in summary, up to you to determine what use cases are best supported, where those use cases could be, where the drones could solve a problem or offer some kind of cost benefit and where you then think that this could be also allowed from a regulatory perspective. The challenge is about the process, not the final solution. We’re looking for someone who can learn a new skill quickly and can show us that they can find answers fast and show good logical thinking skills along the way.
+Good luck!
+Jef
+
+
+Jef Geudens
+Head of Technology
++44 (0)7903 862 746
+Connect via LinkedIn
+skyports.net
+
+ ---- 
+ 
 "cases are best supported, where those use cases could be, where the drones could solve a problem "
 "where you think could be the demand could be based on your analysis"
 "drones could solve a problem or offer some kind of cost benefit and where you then think that this could be also allowed from a regulatory perspective"
